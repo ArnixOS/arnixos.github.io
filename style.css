@@ -1,0 +1,35 @@
+h1{
+    font-family: Raleway;
+    margin: 0;
+    margin-top: 0;
+    background: #f5f5f5;
+}
+
+h3{
+    font-family: Raleway;
+    margin: 0;
+    margin-top: 0;
+    background: #f5f5f5;
+}
+
+a:hover{
+    background: #0288d1;
+    color: #f5f5f5;
+}
+
+a:visited{
+    color: #1a237e;
+    background: #f5f5f5;
+}
+
+p1{
+    font-family: Raleway
+}
+
+code{
+    font-family: Inconsolata;
+}
+
+ul{
+    list-style:  decimal-leading-zero\;
+}
